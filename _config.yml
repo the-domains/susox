@@ -2,6 +2,7 @@ name: susox
 favicon: null
 layout_spectrum: 0.9518183732870966
 typography_spectrum: 0.589536223327741
+title: susox
 cta:
   domain: null
   bucket: null
