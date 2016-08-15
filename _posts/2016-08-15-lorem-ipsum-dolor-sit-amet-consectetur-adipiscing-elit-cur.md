@@ -1,7 +1,7 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: >-
@@ -12,16 +12,16 @@ description: >-
   blandit dictum. Mauris congue velit ac erat egestas, vitae rutrum mauris
   convallis. Class aptent taciti sociosqu ad litora torquent per conubia nostra,
   per inceptos himenaeos.
-datePublished: '2016-08-15T13:34:41.375Z'
-dateModified: '2016-08-15T13:33:58.354Z'
-authors: []
-publisher: {}
+datePublished: '2016-08-15T13:36:22.226Z'
+dateModified: '2016-08-15T13:35:56.995Z'
 title: ''
 author: []
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-15-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-cur.md
+authors: []
+publisher: {}
+starred: true
 url: lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-cur/index.html
 _type: Article
 
